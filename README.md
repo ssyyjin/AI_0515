@@ -1,3 +1,3 @@
-Hello, I am yeojin shin.
-I'm interested in python.. docker.. and such things
-fun fact! My 1st major is advertising&pr
+Hello, I am yeojin shin.  
+I'm interested in python.. docker.. and such things  
+fun fact! My 1st major is advertising&pr  
